@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1636726661 source:f:\programación\primer cuatrimestre\laboratorio\proyecto_final\dibujadado.cpp
+	<iostream>
+	"rlutil.h"
+	"dibujaDado.h"
+
+1636230507 f:\programación\primer cuatrimestre\laboratorio\proyecto_final\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1636725752 f:\programación\primer cuatrimestre\laboratorio\proyecto_final\dibujadado.h
+
+1664724121 source:f:\programación\primer cuatrimestre\laboratorio\proyecto_final\mainrevenge.cpp
+	<iostream>
+	<stdlib.h>
+	<locale.h>
+	<ctime>
+	"rlutil.h"
+	"dibujaDado.h"
+
